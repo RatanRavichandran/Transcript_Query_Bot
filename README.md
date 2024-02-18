@@ -27,8 +27,6 @@ Figure 1
 <a href="https://ibb.co/yWJp8zJ"><img src="https://i.ibb.co/pJpQ3Hp/Screenshot-2024-02-03-212440.png" alt="Screenshot-2024-02-03-212440" border="0"></a>
 <a href="https://ibb.co/6FqW7N6"><img src="https://i.ibb.co/bXGKM7p/Screenshot-2024-02-03-212415.png" alt="Screenshot-2024-02-03-212415" border="0"></a>
 
-Here’s a semi-formal version of your model’s performance for a GitHub repo:
-
 -   The coherence score of my model was off the charts at **0.99999999999**, showing that it can generate sentences that logically connect to each other almost flawlessly.
 -   When it comes to text summarization, my model nailed it with perfect precision scores of **1.0** in ROUGE-1, ROUGE-2, and ROUGE-L metrics, meaning it matched the reference summaries exactly.
 -   The F1 scores for ROUGE-1, ROUGE-2, and ROUGE-L were a bit lower, showing there’s still some room for improvement.
